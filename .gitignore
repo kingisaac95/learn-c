@@ -1,0 +1,6 @@
+# Ignore all files
+*
+# Unignore all files with extensions
+!*.*
+# Unignore all dirs
+!/**/
